@@ -20,6 +20,10 @@ Flags:
 $ legiosk https://pros.lekiosk.com/fr/reader/1888806/21442321
 ```
 
+### Dependencies
+
+`imagemagick`: Concatenate images to a pdf
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
